@@ -4,7 +4,7 @@
   "homepage": ".",
   "private": true,
   "scripts": {
-    "predeploy": "npm run build", 
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
